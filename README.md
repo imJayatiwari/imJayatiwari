@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**imJayatiwari/imJayatiwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Jaya Tiwari
 
-Here are some ideas to get you started:
+💻 Frontend Developer skilled in HTML, CSS & JavaScript  
+🎯 Aspiring to become a perfect frontend developer  
+🚀 Currently working on a pet care website  
+📚 Always learning new tools and frameworks to level up
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🛠 Skills
+- HTML  
+- CSS  
+- JavaScript
+
+---
+
+🚀 Projects
+- Pet Care Website — A responsive website to help pet owners care for their pets
+
+---
+
+📫 Contact Me
+- Email: jayadevi972006@gmail.com 
+- LinkedIn: [https://www.linkedin.com/in/jaya-tiwari-7012532b4]
+- GitHub: [imJayatiwari](https://github.com/imJayatiwari)
+
+  
+
+Thanks for visiting my profile! 😊
