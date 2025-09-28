@@ -22,7 +22,7 @@
 
 📫 Contact Me
 - Email: 232260@kit.ac.in
-- LinkedIn: [https://www.linkedin.com/in/jaya-tiwari-7012532b4]
+- LinkedIn: https://www.linkedin.com/in/jaya-tiwari-7012532b4
 - GitHub: [imJayatiwari](https://github.com/imJayatiwari)
 
   
