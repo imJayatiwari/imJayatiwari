@@ -2,6 +2,9 @@
 Frontend Developer | Web & Programming Enthusiast
 </h3>
 <p align="center">HTML • CSS • JavaScript • React • Java • C • C++ • Python</p>
+<p align="center">
+✨ Passionate about building clean, responsive and user-friendly web interfaces  
+</p>
 
 
 <p align="center">
@@ -22,11 +25,11 @@ Frontend Developer | Web & Programming Enthusiast
 ---
 
 ## 🙋‍♀️ About Me
-- 🎨 Frontend Developer passionate about clean UI
-- 🚀 Currently working on a **Pet Care Website**
-- 🌱 Learning new tools and frameworks
+## 🙋‍♀️ About Me
+- 🎓 Computer Science Student  
+- 🌱 Currently learning **React & Modern Frontend Tools**
+- 💻 Interested in **Web Development & UI Design**
 - 🎯 Goal: Become a strong frontend developer
-
 ---
 
 ## 💻 Tech Stack
