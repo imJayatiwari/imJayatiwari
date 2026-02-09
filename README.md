@@ -45,6 +45,25 @@ A responsive website to help pet owners care for their pets
 ## 📫 Contact Me
 - 📧 Email: 232260@kit.ac.in  
 - 💼 LinkedIn: https://www.linkedin.com/in/jaya-tiwari-7012532b4  
-- 🧑‍💻 GitHub: https://github.com/imJayatiwari  
+- 🧑‍💻 GitHub: https://github.com/imJayatiwari
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imJayatiwari&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imJayatiwari&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### ✨ Developer Mindset
+> “Learning to code is learning to create.” 💙
+
+
 
 😊 Thanks for visiting my profile!
