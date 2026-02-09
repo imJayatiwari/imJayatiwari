@@ -25,7 +25,6 @@ Frontend Developer | Web & Programming Enthusiast
 ---
 
 ## 🙋‍♀️ About Me
-## 🙋‍♀️ About Me
 - 🎓 Computer Science Student  
 - 🌱 Currently learning **React & Modern Frontend Tools**
 - 💻 Interested in **Web Development & UI Design**
@@ -56,13 +55,6 @@ Frontend Developer | Web & Programming Enthusiast
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-
----
-
-## 🚀 Projects
-🔹 **Pet Care Website**  
-A responsive website to help pet owners care for their pets  
-🛠️ HTML • CSS • JavaScript
 
 ---
 
