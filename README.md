@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Jaya Tiwari</h1>
-<h3 align="center">Frontend Developer | HTML • CSS • JavaScript</h3>
+<h3 align="center">
+Frontend Developer | Web & Programming Enthusiast
+</h3>
+<p align="center">HTML • CSS • JavaScript • React • Java • C • C++ • Python</p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jaya-tiwari-7012532b4">
@@ -28,7 +31,6 @@
 
 ## 💻 Tech Stack
 
-### 🌐 Web
 ### 👩‍💻 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
