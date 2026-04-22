@@ -59,7 +59,7 @@ Frontend Developer | Web & Programming Enthusiast
 ---
 
 ## 📫 Contact Me
-- 📧 Email: 232260@kit.ac.in  
+- 📧 Email: jayatiwari2909@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/jaya-tiwari-7012532b4  
 - 🧑‍💻 GitHub: https://github.com/imJayatiwari
 
